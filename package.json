@@ -1,0 +1,12 @@
+{
+  "name": "flow-windows-only",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["test", "ignore_me"],
+  "devDependencies": {
+    "flow-bin": "^0.94.0",
+    "flow-node": "^1.2.3"
+  }
+}
